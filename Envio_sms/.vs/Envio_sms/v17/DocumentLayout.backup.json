@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|e:\\documentos\\infinity sistems\\proyectos\\personales\\enviosms\\envio_sms\\envio_sms\\test_sms.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|solutionrelative:envio_sms\\test_sms.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|e:\\documentos\\infinity sistems\\proyectos\\personales\\enviosms\\envio_sms\\envio_sms\\test_sms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|solutionrelative:envio_sms\\test_sms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|e:\\documentos\\infinity sistems\\proyectos\\personales\\enviosms\\envio_sms\\envio_sms\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78263113-8B36-40F7-A1B0-AE77223F23C0}|Envio_sms\\Envio_sms.csproj|solutionrelative:envio_sms\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_Sms.aspx.cs",
+              "DocumentMoniker": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Test_Sms.aspx.cs",
+              "RelativeDocumentMoniker": "Envio_sms\\Test_Sms.aspx.cs",
+              "ToolTip": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Test_Sms.aspx.cs",
+              "RelativeToolTip": "Envio_sms\\Test_Sms.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:37:10.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Controlador.cs",
+              "RelativeDocumentMoniker": "Envio_sms\\Controlador.cs",
+              "ToolTip": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Controlador.cs",
+              "RelativeToolTip": "Envio_sms\\Controlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:32:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test_Sms.aspx",
+              "DocumentMoniker": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Test_Sms.aspx",
+              "RelativeDocumentMoniker": "Envio_sms\\Test_Sms.aspx",
+              "ToolTip": "E:\\Documentos\\Infinity Sistems\\Proyectos\\Personales\\EnvioSMS\\Envio_sms\\Envio_sms\\Test_Sms.aspx",
+              "RelativeToolTip": "Envio_sms\\Test_Sms.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-06T22:31:19.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
